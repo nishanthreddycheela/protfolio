@@ -10,9 +10,14 @@ body {
     background: linear-gradient(120deg, #667eea, #764ba2);
     color: #333;
     min-height: 100vh;
+<<<<<<< HEAD
 opacity: 0;
     transition: opacity 1s ease;
 
+=======
+    opacity: 0;
+    transition: opacity 1s ease;
+>>>>>>> 8e1977c94320d14489c79eef2f37623f5a730105
 }
 
 /* Header */
